@@ -2,4 +2,4 @@ The purpose of these files is to input the NYC Rolling Housing Sales data for Br
 
 The file R_rollingsales_brooklyn.R shows the clean-up steps.  Original input data can be found in rollingsales_brooklyn.csv. 
 
-Observations on this dataset can be seen in Brooklyn_rollingsales_obs.txt.
+Observations on this dataset can be seen in Observations.txt.
